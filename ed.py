@@ -1,1 +1,1 @@
-name = "edward brennan"
+name = "ed brennan"
